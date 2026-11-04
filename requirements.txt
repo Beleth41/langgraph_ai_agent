@@ -10,3 +10,4 @@ python-dotenv
 pytest
 langchain
 docx2txt
+docling

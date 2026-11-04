@@ -4,3 +4,6 @@ venv/
 .venv/
 .env
 __pycache__/
+test.py
+ingestion_old.py
+settings.py
